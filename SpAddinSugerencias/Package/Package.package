@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="5de03b5c-3093-43bc-84b1-4db2b221c85b" solutionId="5de03b5c-3093-43bc-84b1-4db2b221c85b" resetWebServer="false" sharePointProductVersion="16.0" name="SpAddinSugerencias" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="87e4062f-e193-44f2-b107-6d4009f4c294" />
+    <featureReference itemId="b833e0e1-04ab-4b38-9de9-ee729e0f33dc" />
+  </features>
+</package>

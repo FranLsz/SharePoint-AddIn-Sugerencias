@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+  <Field
+       ID="{9bf0e0b7-b5e8-42e1-aa1a-7d864bebef66}"
+       Name="SugerenciaLookup"
+       DisplayName="Sugerencia Lookup"
+       Type="Lookup"
+       List="Lists/RegistroSugerencias"
+       Required="TRUE"
+       Group="Custom Site Columns">
+  </Field>
+</Elements>
